@@ -1,2 +1,2 @@
 # bootstrap_workshop
-These are the files for the Thinkful Bootstrap workshop. The starter files can be found on the master branch, and a sample solution can be found on the solution branch.
+These are the files for the Thinkful Bootstrap workshop. Went through the course and played around with a few styles to solidify my bootstrap knowledge. Keeping this repo just for my knowledge. 
